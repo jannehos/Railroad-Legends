@@ -7,6 +7,13 @@ namespace Railroad_Legends
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            //Jere mukana
         }
+    }
+    class Junat
+    {
+        public int Id;
+
+
     }
 }
